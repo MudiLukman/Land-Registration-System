@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="LandRegistrationSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LandRegistrationSystem_jar</output-path>
+    <root id="root">
+      <element id="archive" name="LandRegistrationSystem.jar">
+        <element id="module-output" name="LandRegistrationSystem" />
+      </element>
+      <element id="library" level="project" name="jxmaps-1.3.1" />
+      <element id="library" level="project" name="jxmaps-win-1.3.1" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+      <element id="library" level="project" name="jxmapsdemo" />
+      <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+      <element id="library" level="project" name="jfoenix-8.0.8" />
+      <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.2" />
+    </root>
+  </artifact>
+</component>
